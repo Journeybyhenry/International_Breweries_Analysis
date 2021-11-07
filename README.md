@@ -1,5 +1,5 @@
 # International_Breweries_Analysis
-The analysis of international breweries data recorded for a duration of three years was used to determine how to make better decision makings in order to maximize profit and reduce loss to the lowest minimum.
+The analysis of international breweries data recorded for a duration of three years was used to determine how to make better decisions in order to maximize profit and reduce loss to the minimum.
 During the analysis we tailored the analysis to answer certain questions about the Breweries & their customers. 
 
 We helped the International Breweries answer questions such as:
